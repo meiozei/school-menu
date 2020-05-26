@@ -1,2 +1,2 @@
 # school-menu
-just a draft 
+a draft but similar to the final output
